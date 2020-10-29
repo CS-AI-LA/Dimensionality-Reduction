@@ -1,4 +1,4 @@
-# dDR and KdDR- Discriminant component analysis via distance correlation maximization
+# Discriminant component analysis via distance correlation maximization
 
 This is the source code of "Discriminant component analysis via distance correlation maximization", 
 and I also upolad the datasets used in our experiments.
