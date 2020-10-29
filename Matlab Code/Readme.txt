@@ -1,7 +1,6 @@
 # dDR and KdDR- Discriminant component analysis via distance correlation maximization
 
-This is the matlab source code of "Discriminant component analysis via distance correlation maximization", 
-and I also upolad the datasets used in our experiments.
+This is the matlab source code of "Discriminant component analysis via distance correlation maximization".
 
 If you want to use the code for your research, please cite the following paper. Thanks a lot!
 
